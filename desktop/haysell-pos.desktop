@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Haysell POS
+GenericName=Haysell POS
+X-GNOME-FullName=Haysell POS
+Exec=/usr/bin/haysell-pos
+Icon=haysell
+Terminal=false
+TryExec=haysell-pos
+Categories=Office;
+
